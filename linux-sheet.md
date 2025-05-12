@@ -16,9 +16,16 @@
 - **Users & Permissions** – Control access and security
 
 ### 📘 Basic Linux Commands:
-```bash
-pwd        # Print working directory
-ls         # List files and directories
-cd /path   # Change directory
-mkdir test # Create a new folder
-rm file.txt # Remove a file
+
+- **pwd**        - Print working directory
+- **ls**         - List files and directories
+- **cd /path**   - Change directory
+- **mkdir test** - Create a new folder
+- **rm file.txt**    - Remove a file
+
+### 📘 File Operations Commands:
+
+- **touch file.txt**         - Create an empty file
+- **cp source destination**  - Copy a file
+- **mv source destination**  - Move or rename a file
+- **cat file.txt**           - Display the contents of a file
