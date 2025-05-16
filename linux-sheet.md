@@ -8,7 +8,7 @@
 - 🔐 Highly secure and customizable
 - 🔁 Multiuser and multitasking capabilities
 - 💻 Command-line focused (especially in server environments)
-
+  
 ### 📁 Linux Structure Overview:
 - **Kernel** – Core part that interacts with hardware
 - **Shell** – Interface between user and kernel
